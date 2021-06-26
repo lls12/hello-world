@@ -10,4 +10,4 @@ function test(&$a){
 
 $a1 = 8;
 echo test($a1);
-
+echo "<br>";
