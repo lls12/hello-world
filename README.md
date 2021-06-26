@@ -1,0 +1,1 @@
+# eto testoviy readme filr kotoriy ya kho4y dobavit
