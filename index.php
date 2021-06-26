@@ -12,6 +12,7 @@
 </html>
 
     <img src="https://source.unsplash.com/random" alt="">
+    <img src="https://source.unsplash.com/random" alt="">
 
 <?php
 
