@@ -19,8 +19,8 @@
     
 
 
-    <img src="https://source.unsplash.com/random" alt="">
-    <img src="https://source.unsplash.com/random" alt="">
+    <img src="https://source.unsplash.com/random" alt="" style="width:240px;">
+    <img src="https://source.unsplash.com/random" alt="" style="width:300px;">
 
     </body>
 </html>
