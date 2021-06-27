@@ -1,1 +1,1 @@
-# eto testoviy readme filr kotoriy ya kho4y dobavit
+# eto testoviy readme filr kotoriy ya khotel update
