@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <html  lang="en">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -19,8 +20,8 @@
     
 
 
-    <img src="https://source.unsplash.com/random" alt="" style="width:240px;">
-    <img src="https://source.unsplash.com/random" alt="" style="width:300px;">
+    <img src="https://source.unsplash.com/random" alt="" style="width:240px; heigth:400px;">
+    <img src="https://source.unsplash.com/random" alt="" style="width:300px; height:400px;">
 
     </body>
 </html>
